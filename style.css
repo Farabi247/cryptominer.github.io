@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(image/cryptocurrency-background-gcvmofuao6kqmy6o.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.btn{
+    background-color: aqua;
+    background-position: center;
+}
