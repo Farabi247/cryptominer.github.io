@@ -1,1 +1,0 @@
-# cryptominer.github.io
